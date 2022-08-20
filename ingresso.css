@@ -1,0 +1,15 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(83, 83, 241);
+    font: normal 18pt italic;
+    color: whitesmoke;
+}
+
+img{
+    width: 450px;
+}
+
+h2{
+    font: normal 15pt italic;
+}
